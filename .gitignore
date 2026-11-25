@@ -1,0 +1,13 @@
+# Analysis products and workflow logs
+result/
+logs/
+.snakemake/
+
+# R session and generated graphics
+.Rhistory
+.RData
+Rplots.pdf
+
+# Local editor and operating-system files
+.DS_Store
+.vscode/

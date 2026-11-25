@@ -1,0 +1,14 @@
+name: icfifty
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python >=3.10
+  - snakemake >=8,<10
+  - r-base >=4.2
+  - r-tidyverse
+  - r-readxl
+  - r-drc
+  - r-gridextra
+  - r-shiny
+  - r-bslib
